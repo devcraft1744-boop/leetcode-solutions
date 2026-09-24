@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "updatedAt": 1790243610463,
+  "devices": {
+    "0e7bebb5-3849-4962-a0a3-429de0b7c27c": {
+      "lastSeen": 1790243609705
+    }
+  },
+  "problems": {},
+  "achievements": {},
+  "sheets": {},
+  "days": [],
+  "bests": {
+    "longestStreak": 0,
+    "pushes": 0
+  },
+  "identity": {
+    "installId": "2b522b05-9fc1-4d98-84fa-30498a766193",
+    "at": 1790243308961,
+    "name": "Craft",
+    "nameAt": 1790243462664
+  }
+}
